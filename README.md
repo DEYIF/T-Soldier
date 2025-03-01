@@ -5,4 +5,4 @@ released_version folder contains the game's dll and exe files, which are needed 
 
 Underground folder contains all the codes. They were written in C++ on Qt platform.
 
-Detailed descriptions can be found in the pdf file.
+Detailed descriptions can be found in the ppt file.
