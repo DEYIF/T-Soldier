@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pictures/LinkFor .PNG</file>
+        <file>Pictures/LinkBac.png</file>
+        <file>Pictures/LinkLeft.png</file>
+        <file>Pictures/LinkRight.png</file>
+        <file>Pictures/GobFor.png</file>
+        <file>Pictures/DeathHead.png</file>
+        <file>Pictures/ChooseLink.png</file>
+        <file>Pictures/ChooseCupHead.png</file>
+        <file>Pictures/ChooseGeralt.png</file>
+        <file>Music/BgmMarioUpGround.mp3</file>
+        <file>Pictures/LinkForward.png</file>
+        <file>Pictures/MapSoil.png</file>
+        <file>Pictures/mapGrass.png</file>
+        <file>Pictures/MapStone.png</file>
+        <file>Pictures/MapGrass2.png</file>
+        <file>Pictures/MapChest.png</file>
+        <file>Pictures/MapChestClose.png</file>
+        <file>Pictures/MapChestOpen.png</file>
+        <file>Pictures/MapFogSoil1.png</file>
+        <file>Pictures/MapFogSoil2.png</file>
+        <file>Pictures/MapFogSoil3.jpg</file>
+        <file>Pictures/MapFogSoil4.jpg</file>
+        <file>Pictures/MapFog.png</file>
+        <file>Pictures/BokoBlin.png</file>
+        <file>Pictures/BokoBlinRight.png</file>
+        <file>Pictures/LinkSpear.png</file>
+        <file>Pictures/LinkSword.png</file>
+        <file>Pictures/MapEquipOff.png</file>
+        <file>Pictures/MapEquipOn.png</file>
+        <file>Pictures/MapLinkBackGround.jpg</file>
+        <file>Pictures/DiaBlueSpear.png</file>
+        <file>Pictures/DiaSpace.png</file>
+        <file>Pictures/BlueSpear.png</file>
+        <file>Pictures/MasterSword.png</file>
+        <file>Pictures/Setting.jpg</file>
+        <file>Pictures/Start.jpg</file>
+        <file>Pictures/WarriorT.jpg</file>
+        <file>Pictures/White.png</file>
+        <file>Pictures/Heart.png</file>
+        <file>Pictures/GameOver.png</file>
+        <file>Pictures/MapBoard.png</file>
+        <file>Pictures/MapHole.png</file>
+        <file>Pictures/Mop.png</file>
+        <file>Pictures/LinkMop.png</file>
+        <file>Pictures/DiaMop.png</file>
+        <file>Pictures/DiaBoard.png</file>
+        <file>Pictures/Marine.png</file>
+        <file>Pictures/DiaMarineBoard.png</file>
+        <file>Pictures/DiaVictory.png</file>
+        <file>Pictures/Help.png</file>
+        <file>Pictures/DiaHelp.png</file>
+        <file>Pictures/Return.png</file>
+    </qresource>
+</RCC>
